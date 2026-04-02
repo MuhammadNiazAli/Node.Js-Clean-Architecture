@@ -1,8 +1,10 @@
 # Node.js + TypeScript Clean Architecture — Har File Ka Kaam
 
-![alt text](image.png)
-![alt text](HD Flow.png)
-        
+![clean coder Blog officel](image.png)
+
+![Niaz Ali officel](niazflow.png)
+
+
 
 Is project mein 4 main layers hain:
 
